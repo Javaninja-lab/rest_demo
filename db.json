@@ -2,14 +2,14 @@
   "cards": [
     { "id": 1, "number": "376655729025111", "provider": "MasterCard", "balance": 100.05},
     { "id": 2, "number": "5102485287583008", "provider": "MasterCard", "balance": 786.30},
-    { "id": 3, "number": "4471493987593869", "provider": "Visa", "balance": 20.50},
+    { "id": 3, "number": "4471493987593869", "provider": "Visa", "balance": 20.50}
   ],
   "movements": [
     { "description": "Pagamento PayPal", "amount":-20.50, "date": "2023-12-27T13:14:17Z", "id_card": 1},
     { "description": "Pagamento Rata", "amount":-620.35, "date": "2023-12-24T09:56:34Z", "id_card": 1},
     { "description": "Stipendio", "amount":1051, "date": "2023-12-17T22:06:33Z", "id_card": 1},
     { "description": "Bollo Macchina", "amount":-60.30, "date": "2023-12-23T06:34:21Z", "id_card": 2},
-    { "description": "Spesa", "amount":-40.00, "date": "2012-04-23T18:25:43.511Z", "id_card": 2},
+    { "description": "Spesa", "amount":-40.00, "date": "2012-04-23T18:25:43.511Z", "id_card": 2}
   ],
   "profile": {
     "name": "Mt"
